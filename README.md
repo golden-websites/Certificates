@@ -2,4 +2,4 @@
 
 A clean, minimalist, and highly responsive digital showcase designed exclusively to display, organize, and manage the technical certificates and educational achievements of **Hadi Mostafaei**.
 
-🌐 **Live Website:** [golden-websites.github.io/Certificates](https://me.hadimostafayi.ir)
+🌐 **Live Website:** [me.hadimostafayi.ir](https://me.hadimostafayi.ir)
